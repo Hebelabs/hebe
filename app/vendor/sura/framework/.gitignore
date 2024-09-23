@@ -1,0 +1,11 @@
+/vendor
+/public/uploads/ads
+/public/uploads/apps
+/public/uploads/attah
+/public/uploads/users
+/public/uploads/videos
+/.idea
+.env
+.phpunit.result.cache
+composer.phar
+composer.lock
